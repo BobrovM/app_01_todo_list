@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="Test 1. Idk why .py files were ignored by git. Literally ignored. I hope now it will check them.">
-      <change afterPath="$PROJECT_DIR$/venv/code_exer/code_exer_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
+    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="Course section day 10. I removed the '*' from git ignore. I will search a correct git ignore text for app 2 (since day 21)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/saved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/saved.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670972991607</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Course section day 10. I removed the '*' from git ignore. I will search a correct git ignore text for app 2 (since day 21)">
+      <created>1670975392308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670975392309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Test 1. Idk why .py files were ignored by git. Literally ignored. I hope now it will check them." />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 1. Idk why .py files were ignored by git. Literally ignored. I hope now it will check them." />
+    <MESSAGE value="Course section day 10. I removed the '*' from git ignore. I will search a correct git ignore text for app 2 (since day 21)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course section day 10. I removed the '*' from git ignore. I will search a correct git ignore text for app 2 (since day 21)" />
   </component>
 </project>
