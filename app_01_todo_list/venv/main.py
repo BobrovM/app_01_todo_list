@@ -1,4 +1,9 @@
 from func_todos import read_todos, write_todos
+import time
+
+
+now = time.strftime("%d-%m-%Y %H:%M:%S %z")
+print("Today is ", now, "UTC")
 
 
 while True:
