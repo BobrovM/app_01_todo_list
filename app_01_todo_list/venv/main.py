@@ -1,21 +1,8 @@
-savefile = "saved.txt"
-
-
-def read_todos(filepath=savefile):
-    """ Read a text file and return the list of to-do items. """
-    with open(filepath, "r") as file:
-        file_input = file.readlines()
-    return file_input
-
-
-def write_todos(todos_input, filepath=savefile):
-    """ Write the list of to-do items in a text file. """
-    with open(filepath, "w") as file:
-        file.writelines(todos_input)
+from func_todos import read_todos, write_todos
 
 
 while True:
-    action=input("Type add, show, edit (by a number), done (by a number) or exit: ")
+    action = input("Type add, show, edit (by a number), done (by a number) or exit: ")
 
     if action.startswith("add"):
         todos = read_todos()
@@ -31,8 +18,8 @@ while True:
     elif action.startswith("edit"):
         try:
             todos = read_todos()
-            num=int(action[5:])-1
-            new_item=input("Enter the replacement: ")
+            num = int(action[5:])-1
+            new_item = input("Enter the replacement: ")
             todos[num] = new_item+"\n"
             write_todos(todos)
         except ValueError:
