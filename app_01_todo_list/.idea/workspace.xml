@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="">
+    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="Course section day 16. Added nonfunctional GUI to to-do app. Done exercise and bonus part of day 16. Have to change or create if not exist a read me file on this github folder. I accidentally stored everything in venv.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bonus_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bonus/bonus_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/saved.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/saved.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +48,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/bobrt/OneDrive/Documents/coding_projects/python_cources/app_01_todo_list/venv/bonus",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bobrt/OneDrive/Documents/coding_projects/python_cources/app_01_todo_list/venv/bonus&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\python_cources\app_01_todo_list\venv\bonus" />
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671384225298</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Course section day 16. Added nonfunctional GUI to to-do app. Done exercise and bonus part of day 16. Have to change or create if not exist a read me file on this github folder. I accidentally stored everything in venv.">
+      <created>1671497040292</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671497040292</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +192,7 @@
     <MESSAGE value="Course section day 12." />
     <MESSAGE value="Course section day 13." />
     <MESSAGE value="Course section day 14." />
-    <option name="LAST_COMMIT_MESSAGE" value="Course section day 14." />
+    <MESSAGE value="Course section day 16. Added nonfunctional GUI to to-do app. Done exercise and bonus part of day 16. Have to change or create if not exist a read me file on this github folder. I accidentally stored everything in venv." />
+    <option name="LAST_COMMIT_MESSAGE" value="Course section day 16. Added nonfunctional GUI to to-do app. Done exercise and bonus part of day 16. Have to change or create if not exist a read me file on this github folder. I accidentally stored everything in venv." />
   </component>
 </project>
