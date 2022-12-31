@@ -1,4 +1,0 @@
-Make something work
-Make edit, complete, exit
-Complete GUI
-Tested

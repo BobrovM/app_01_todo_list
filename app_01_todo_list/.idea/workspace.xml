@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="Course section day 17 (1/3 done). Added listbox for user interface, edit option, change input box by choosing the content in the list box.">
+    <list default="true" id="005cb7de-0ac0-4880-af41-a96e387ccc69" name="Changes" comment="Course section day 17 (done). Made the zip app. Did the exercise. Did it late due to some problems with my bachelor studies.">
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bonus/bonus_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bonus/bonus_16_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/func_todos.py" beforeDir="false" afterPath="$PROJECT_DIR$/func_todos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/saved.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/venv/cli.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cli.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,19 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/bobrt/OneDrive/Documents/coding_projects/python_cources/app_01_todo_list/venv/code_exer",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bobrt/OneDrive/Documents/coding_projects/python_cources/app_01_todo_list/venv/code_exer&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\python_cources\app_01_todo_list\venv\code_exer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\python_cources\app_01_todo_list" />
+      <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\python_cources\app_01_todo_list\venv" />
       <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\python_cources\app_01_todo_list\venv\bonus" />
       <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\app_01_todo_list\venv\code_exer" />
       <recent name="C:\Users\bobrt\OneDrive\Documents\coding_projects\app_01_todo_list\venv" />
@@ -167,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671581293866</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Course section day 17 (done). Made the zip app. Did the exercise. Did it late due to some problems with my bachelor studies.">
+      <created>1671751009515</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671751009515</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +219,7 @@
     <MESSAGE value="Course section day 14." />
     <MESSAGE value="Course section day 16. Added nonfunctional GUI to to-do app. Done exercise and bonus part of day 16. Have to change or create if not exist a read me file on this github folder. I accidentally stored everything in venv." />
     <MESSAGE value="Course section day 17 (1/3 done). Added listbox for user interface, edit option, change input box by choosing the content in the list box." />
-    <option name="LAST_COMMIT_MESSAGE" value="Course section day 17 (1/3 done). Added listbox for user interface, edit option, change input box by choosing the content in the list box." />
+    <MESSAGE value="Course section day 17 (done). Made the zip app. Did the exercise. Did it late due to some problems with my bachelor studies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Course section day 17 (done). Made the zip app. Did the exercise. Did it late due to some problems with my bachelor studies." />
   </component>
 </project>
